@@ -1,0 +1,3 @@
+~CanFly(x) => needAirplane(x)
+Person(x) => ~CanFly(x)
+Person(John)
